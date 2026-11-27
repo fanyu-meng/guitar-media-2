@@ -1,0 +1,18 @@
+{
+  "repo": "guitar-media-2",
+  "videos": {
+    "2026-11-november-snow": {
+      "path": "2026-11-november-snow/video.mp4",
+      "type": "mp4",
+      "bytes": 9774322,
+      "width": 720,
+      "height": 1280,
+      "videoCodec": "h264",
+      "audioCodec": "aac",
+      "duration": 54.272,
+      "title": "梁博同款Fender弹November Snow",
+      "source": "local:Fender拆箱+November rain.mp4",
+      "archivedAt": "2026-11-27"
+    }
+  }
+}
